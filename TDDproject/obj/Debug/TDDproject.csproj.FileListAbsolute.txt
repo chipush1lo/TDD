@@ -1,0 +1,7 @@
+D:\support\projects\TDDproject\bin\Debug\TDDproject.exe.config
+D:\support\projects\TDDproject\bin\Debug\TDDproject.exe
+D:\support\projects\TDDproject\bin\Debug\TDDproject.pdb
+D:\support\projects\TDDproject\obj\Debug\TDDproject.csproj.AssemblyReference.cache
+D:\support\projects\TDDproject\obj\Debug\TDDproject.csproj.CoreCompileInputs.cache
+D:\support\projects\TDDproject\obj\Debug\TDDproject.exe
+D:\support\projects\TDDproject\obj\Debug\TDDproject.pdb
